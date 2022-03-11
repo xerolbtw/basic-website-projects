@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-color:rgb(25, 129, 143);">
+<div style="background-color:rgb(163, 228, 215);color:white;padding:20px;">
+<h1 style="text-align:center;font-size:300%; color:white;font-family:courier;"> Average Website</h1>
+
+
+<p style="text-align:center; font-family:courier; color:white">          Isaac Anke's Mediocre Website! <br></p>
+
+<center><img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Neutral_Emoji_icon_9f1cc93a-f984-4b6c-896e-d24a643e4c28_large.png?v=1571606091" 
+width="200"  height="200"></center>
+
+<p style="font-family:courier;font-size:90%; color:white"> I like computer science, gaming, anime and finance.
+I wish to someday be a full stack software engineer or a pinoneer in an industry that has yet to emerge.</p>
+
+<a   href = "https://twitter.com/xerolbtw"> Twitter</a><br>
+<a   href = "https://github.com/xerolbtw/xerolbtw"> Github</a><br>
+
+<p style="text-align:center; font-family:courier; color:white"> To do list <br> - toggle button that changes background color </p>
+
+
+
+</body>
+</html>
